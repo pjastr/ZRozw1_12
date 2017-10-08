@@ -1,0 +1,6 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\ZRozw1_12\ZRozw1_12\bin\Debug\ZRozw1_12.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\ZRozw1_12\ZRozw1_12\bin\Debug\ZRozw1_12.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\ZRozw1_12\ZRozw1_12\bin\Debug\ZRozw1_12.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\ZRozw1_12\ZRozw1_12\obj\Debug\ZRozw1_12.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2013\Projects\ZRozw1_12\ZRozw1_12\obj\Debug\ZRozw1_12.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\ZRozw1_12\ZRozw1_12\obj\Debug\ZRozw1_12.pdb
